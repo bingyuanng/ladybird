@@ -2,10 +2,9 @@ Harness status: OK
 
 Found 5 tests
 
-1 Pass
-4 Fail
-Fail	No title element in SVG document
-Fail	Title element in SVG document
-Fail	Title element not child of SVG root
-Fail	Title element not in SVG namespace
+5 Pass
+Pass	No title element in SVG document
+Pass	Title element in SVG document
+Pass	Title element not child of SVG root
+Pass	Title element not in SVG namespace
 Pass	Root element not named "svg"
